@@ -1,0 +1,8 @@
+/* Import the customized font */
+
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+html {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 10px;
+}
